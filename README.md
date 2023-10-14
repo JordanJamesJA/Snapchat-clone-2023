@@ -4,7 +4,7 @@ An interactive and visually engaging Snapchat website clone, showcasing front-en
 
 <h1>Snapchat Website Clone</h1>
 
-<img src=""></img>
+<img src="#" alt="web-clone-screenshot">
 
 A Snapchat website clone created to showcase my front-end development skills. This project aims to replicate the user interface and experience of the popular social media platform, Snapchat.
 
