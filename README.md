@@ -8,30 +8,32 @@ An interactive and visually engaging Snapchat website clone, showcasing front-en
 
 A Snapchat website clone created to showcase my front-end development skills. This project aims to replicate the user interface and experience of the popular social media platform, Snapchat.
 
-Technologies Used
-HTML
-CSS
-JavaScript
-[Any additional libraries or frameworks you used, e.g., React, Vue, etc.]
-Features
+<h2>Technologies Used</h2>
+HTML <br>
+CSS <br>
+JavaScript <br>
+React <br>
+<h2>Features</h2>
 [List the key features you've implemented in your clone, such as user registration, sending and receiving snaps, story sharing, etc.]
-Usage
-Clone the repository: git clone https://github.com/your-username/snapchat-clone.git
+<h2>Usage</h2>
+
+<!-- Clone the repository: git clone https://github.com/your-username/snapchat-clone.git
+
 Open index.html in your web browser or deploy it on a web server.
 [Include any specific instructions or setup required for your project.]
 Screenshots
 Screenshot 1
-Screenshot 2
+Screenshot 2 -->
 
-Demo
-[Link to a live demo if available, e.g., GitHub Pages, Netlify, etc.]
+<h2>Demo</h2>
+[Link to a live demo Netlify]
 
-Contributing
+<h2>Contributing</h2>
 Pull requests and issues are welcome. Please feel free to contribute to this project.
 
-License
+<h2>License</h2>
 This project is open-source and available under the MIT License.
 
-Contact
+<h2>Contact</h2>
 Your Name
 Feel free to reach out with any questions, suggestions, or feedback. Happy coding!
