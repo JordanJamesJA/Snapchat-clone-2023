@@ -13,7 +13,7 @@ JavaScript <br>
 React <br>
 <!-- <h2>Features</h2>
 [List the key features you've implemented in your clone, such as user registration, sending and receiving snaps, story sharing, etc.]
-<h2>Usage</h2> -->
+<h2>Usage</h2>
 
 <!-- Clone the repository: git clone https://github.com/your-username/snapchat-clone.git
 
@@ -33,5 +33,4 @@ Pull requests and issues are welcome. Please feel free to contribute to this pro
 This project is open-source and available under the MIT License.
 
 <h2>Contact</h2>
-Your Name
 Feel free to reach out with any questions, suggestions, or feedback. Happy coding!
