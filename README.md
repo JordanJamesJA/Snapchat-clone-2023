@@ -23,8 +23,8 @@ Screenshots
 Screenshot 1
 Screenshot 2 -->
 
-<h2>Demo</h2>
-[Link to a live demo Netlify]
+<!-- <h2>Demo</h2>
+[Link to a live demo Netlify] -->
 
 <h2>Contributing</h2>
 Pull requests and issues are welcome. Please feel free to contribute to this project.
