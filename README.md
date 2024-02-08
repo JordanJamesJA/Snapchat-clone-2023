@@ -11,9 +11,9 @@ HTML <br>
 CSS <br>
 JavaScript <br>
 React <br>
-<h2>Features</h2>
+<!-- <h2>Features</h2>
 [List the key features you've implemented in your clone, such as user registration, sending and receiving snaps, story sharing, etc.]
-<h2>Usage</h2>
+<h2>Usage</h2> -->
 
 <!-- Clone the repository: git clone https://github.com/your-username/snapchat-clone.git
 
